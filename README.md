@@ -17,3 +17,11 @@ font-family: 'Poppins', sans-serif;
 Title Font:
 font-family: 'Pacifico', cursive;
 
+Database structure 
+
+
+
+![Screenshot (14)](https://user-images.githubusercontent.com/51951413/163212035-92350852-2580-4e9e-a105-18e4c3370e3f.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/51951413/163212042-1a5830f2-20fe-46ef-9df2-297179ac5092.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/51951413/163212047-61c0ac2d-6825-4796-a292-96b0573aee51.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/51951413/163212051-03adfbc4-1783-4f72-815d-dd91dff6c86d.png)
