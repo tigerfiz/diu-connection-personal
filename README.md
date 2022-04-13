@@ -19,9 +19,7 @@ font-family: 'Pacifico', cursive;
 
 Database structure 
 
-
-
-![Screenshot (14)](https://user-images.githubusercontent.com/51951413/163212035-92350852-2580-4e9e-a105-18e4c3370e3f.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/51951413/163212042-1a5830f2-20fe-46ef-9df2-297179ac5092.png)
-![Screenshot (16)](https://user-images.githubusercontent.com/51951413/163212047-61c0ac2d-6825-4796-a292-96b0573aee51.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/51951413/163212051-03adfbc4-1783-4f72-815d-dd91dff6c86d.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/51951413/163212706-0df4d4b2-f4fd-45bd-af13-dde0ac8e8ec1.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/51951413/163212721-5a36a876-e94f-440c-b35c-e0caa28b6d04.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/51951413/163212727-990b2f5b-7b0c-4a5c-8804-7c313c85079b.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/51951413/163212730-35b56f29-9cd3-42f2-8446-9168bead14b2.png)
