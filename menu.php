@@ -54,9 +54,9 @@
               </a>
             </li>
 
-            <li class="innericon">
-              <a href="#">
-                <i class="fa-solid fa-bell fa-2x"></i>
+            <li id="logouticon" class="innericon">
+              <a href="logout.php">
+              <i class="fa-solid fa-right-from-bracket fa-2x"></i>
               </a>
             </li>
 
